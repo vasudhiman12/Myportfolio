@@ -3,7 +3,7 @@ This is a simple portfolio website created using HTML, CSS, and JavaScript.
 
 Table of Contents
 Description
-Technologies 
+Technologies Used
 Features
 How to Use
 License
